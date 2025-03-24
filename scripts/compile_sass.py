@@ -447,5 +447,3 @@ def main(
         click.secho(f"(skipped CMS)", fg="yellow")
 
 
-if __name__ == "__main__":
-    main(prog_name="npm run compile-sass --")
