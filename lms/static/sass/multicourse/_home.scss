@@ -23,7 +23,6 @@ $course-search-input-height: ($button-size);
     overflow: hidden;
     padding: 0;
     width: flex-grid(12);
-      margin: 52px;
 
     .outer-wrapper {
       @include clearfix();
